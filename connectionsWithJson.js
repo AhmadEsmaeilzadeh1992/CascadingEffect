@@ -82,7 +82,7 @@ function findParents(nodeValue) {
 
 
 
-
+//function to get both parent and children
 
 function connection(nodeValue) {
     findChildren(nodeValue);
